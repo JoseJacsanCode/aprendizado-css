@@ -1,0 +1,11 @@
+.texto-padrao {
+    color: blue;
+}
+
+.texto-padrao {
+    color: red !important;
+}
+
+.texto-padrao {
+    color: yellow;
+}
